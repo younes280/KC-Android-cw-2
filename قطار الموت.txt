@@ -1,0 +1,25 @@
+التمرين الثاني 
+
+
+public class Main
+{
+	public static void main(String[] args) {
+	    
+int hiegth = 150 ; 
+
+
+if (hiegth<160) 
+
+
+System.out.println("you can't.");
+
+
+else if (hiegth>160)
+
+
+{System.out.println("you can play");}
+
+	}
+}
+
+

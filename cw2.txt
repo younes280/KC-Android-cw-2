@@ -1,0 +1,21 @@
+التمرين الاول
+{
+	public static void main(String[] args) {
+
+
+	int age = 14 ; 
+
+	
+	String name = "younes";
+
+
+	
+	System.out.println(" Hi my name is "+ name + " and i am " + age + " years old " );
+	}
+}
+
+
+
+
+
+
